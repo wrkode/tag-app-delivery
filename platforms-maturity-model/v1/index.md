@@ -343,7 +343,7 @@ Platform capabilities are transparently integrated into the tools and processes 
 
 Operation of platforms means running and supporting its capabilities and their features over their whole lifetime, including acceptance of new requests, initial releases, upgrades and extensions, ongoing maintenance and operations, user support, and even deprecation and termination. Organizations and their platform teams choose platforms and capabilities to create and maintain and can prioritize the most valuable and impactful initiatives.
 
-Notably, most of the work to provide a capability is expended after its initial release — in providing seamless upgrades, new and improved features, operational support, and end-user enablement and education. Therefore an impactful, valuable platform will plan in advance and manage their platform for long-term sustainable operations and reliability.
+Notably, most of the work to provide a capability is expended after its initial release — in providing seamless upgrades, new and improved features, operational support, and end-user enablement and education. Therefore an impactful, valuable platform team will plan in advance and manage their platform for long-term sustainable operations and reliability.
 
 ### Level 1, Provisional — By request
 
